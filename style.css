@@ -67,7 +67,7 @@ header{
 }
 
 section{
-    padding: 5px 10px;
+    padding: 5px 10%;
 }
 
 .main-home{
@@ -144,3 +144,10 @@ section{
     transition: all .42s ease;
 }
 
+header.sticky{
+    background: #fff;
+    padding: 20px 10%;
+    box-shadow: 0px 0px 10% rgb(0, 0, 0 / 10%);
+}
+
+.section
